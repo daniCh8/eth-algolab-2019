@@ -2,25 +2,25 @@
 
 ![](https://hackernoon.com/hn-images/1*CWM5omSsQVUpMREJwHQUzQ.jpeg)
 
-##Problems of the Week
-| Week  | Subject | Problem |
-| ------------- | ------------- | ------------- |
-| Week 1  | Sliding Windows  | Deck of Cards |
-| Week 2  | Dynamic Programming  | From Russia With Love |
-| Week 3  | Dynamic Programming | Chariot Race |
-| Week 4  | CGAL | Motorcycles |
-| Week 5  | BGL | Planet Express |
-| Week 6  | Greedy | Attack of the Clones |
-| Week 7  | Maximum Flow | Cantonal Courier |
-| Week 8  | Linear Programming | Suez |
-| Week 9  | Proximity Structures | Goldeneye |
+## Problems of the Week
+| Week     | Subject | Problem |
+| -------- | ------------- | ------------- |
+| Week 1   | Sliding Windows  | Deck of Cards |
+| Week 2   | Dynamic Programming  | From Russia With Love |
+| Week 3   | Dynamic Programming | Chariot Race |
+| Week 4   | CGAL | Motorcycles |
+| Week 5   | BGL | Planet Express |
+| Week 6   | Greedy | Attack of the Clones |
+| Week 7   | Maximum Flow | Cantonal Courier |
+| Week 8   | Linear Programming | Suez |
+| Week 9   | Proximity Structures | Goldeneye |
 | Week 10  | Minimum-Cost-Maximum-Flow | India |
 | Week 11  | Exam Preparation | San Francisco |
 | Week 12  | Exam Preparation | Revenge of the Sith |
 | Week 13  | Exam Preparation |  Carsharing |
 ---
 
-##Weekly Exercises
+## Weekly Exercises
 | Week  | Subject | Problem |
 | ------------- | ------------- | ------------- |
 | Week 1  | Partial sums trick  | <ul><li>Even Pairs</li><li>Build the Sum</li><li>Dominoes</li><li>Even Matrices</li></ul>|
