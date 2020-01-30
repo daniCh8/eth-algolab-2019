@@ -21,7 +21,7 @@
 ---
 
 ## Weekly Exercises
-| Week  | Subject | Problem |
+| Week  | Subject | Problems |
 | ------------- | ------------- | ------------- |
 | [Week 1](/week1)  | Partial sums trick  | <ul><li>[Even Pairs](/week1/even_pairs/even_pairs.cpp)</li><li>[Build the Sum](/week1/build_the_sum/build_the_sum.cpp)</li><li>[Dominoes](/week1/dominoes/dominoes.cpp)</li><li>[Even Matrices](/week1/even_matrices/even_matrices.cpp)</li></ul>|
 | [Week 2](/week2)  | Dynamic Programming and Sliding Window | <ul><li>[Search Snippets](/week2/search_snippets/search_snippets.cpp)</li><li>[Beach Bars](/week2/beach_bars/beach_bars.cpp)</li><li>[Burning Coins](/week2/burning_coins/burning_coins.cpp)</li><li>[The Great Game](/week2/great_game/great_game.cpp)</li></ul> |
