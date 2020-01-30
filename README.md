@@ -5,7 +5,7 @@
 ## Problems of the Week
 | Week     | Subject | Problem |
 | -------- | ------------- | ------------- |
-| Week 1   | Sliding Windows  | [Deck of Cards](/pows/deck_of_cards/deck_of_cards.cpp) |
+|[Week 1](/pows/deck_of_cards)   | Sliding Windows  | [Deck of Cards](/pows/deck_of_cards/deck_of_cards.cpp) |
 | Week 2   | Dynamic Programming  | [From Russia With Love](/pows/from_russia_with_love/russia.cpp) |
 | Week 3   | Dynamic Programming | [Chariot Race](/pows/chariot_race/chariot_race.cpp) |
 | Week 4   | CGAL | [Motorcycles](/pows/motorcycles/motorcycles.cpp) |
